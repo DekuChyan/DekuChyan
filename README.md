@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**DekuChyan/DekuChyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🟧 >_ SYS.INIT: Welcome to Kai's Terminal
 
-Here are some ideas to get you started:
+### 📂 ./about_me.sh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 **Academics:** 2nd-year Hardware Engineering & Cybersecurity student at Lviv Polytechnic.
+* 🔐 **Mission:** Exploring the intersection of bare-metal hardware and cloud security.
+* 🌌 **Passions:** When I'm not configuring servers, I'm diving into Quantum Physics, building AI Agents, or bringing characters to life through Cosplay.
+
+### 🥷 ./hidden_configs.sh
+> `export MOTIVATION="Plus Ultra!"` 💥
+> `sudo firewall-cmd --status` ➔ `Látom.` 🔥
+> `initiate_domain_expansion --type="Infinite Void"` 🤞🏼
+
+---
+
+### ⚙️ ./tech_arsenal
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FF6600?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-FF6600?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-FF6600?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Python-FF6600?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-FF6600?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+---
+
+### 📡 ./establish_connection
+
+<a href="www.linkedin.com/in/dekuchyan"><img src="https://img.shields.io/badge/LinkedIn-FF6600?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
